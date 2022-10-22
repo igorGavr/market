@@ -1,0 +1,93 @@
+/*.header{*/
+/*    border-bottom:11px solid #f6f6f6;*/
+/*    padding:40px 0*/
+/*}*/
+/*.header .container{*/
+/*    display:-webkit-box;*/
+/*    display:-ms-flexbox;*/
+/*    display:flex;*/
+/*    -webkit-box-align:center;*/
+/*    -ms-flex-align:center;*/
+/*    align-items:center;*/
+/*    -webkit-box-pack:justify;*/
+/*    -ms-flex-pack:justify;*/
+/*    justify-content:space-between*/
+/*}*/
+/*.container{*/
+/*    width:90%;*/
+/*    margin:0 auto*/
+/*}*/
+/*.header__logo{*/
+/*    display:-webkit-box;*/
+/*    display:-ms-flexbox;*/
+/*    display:flex*/
+/*}*/
+/*.header__logo img{*/
+/*    margin-right:15px*/
+/*}*/
+/*.header__logo h1{*/
+/*    color:#181818;*/
+/*    font-size:24px;*/
+/*    letter-spacing:1px;*/
+/*    text-transform:uppercase;*/
+/*    font-weight:800*/
+/*}*/
+/*.header__logo p{*/
+/*    color:#7b7b7b*/
+/*}*/
+/*.button{*/
+/*    display:inline-block;*/
+/*    background-color:#fe5f1e;*/
+/*    border-radius:30px;*/
+/*    padding:10px 20px;*/
+/*    min-width:100px;*/
+/*    text-align:center;*/
+/*    cursor:pointer;*/
+/*    -webkit-transition:background-color .15s ease-in-out,border-color .15s ease-in-out;*/
+/*    transition:background-color .15s ease-in-out,border-color .15s ease-in-out;*/
+/*    border:1px solid transparent;*/
+/*    -webkit-touch-callout:none;*/
+/*    -webkit-user-select:none;*/
+/*    -moz-user-select:none;*/
+/*    -ms-user-select:none;user-select:none*/
+/*}*/
+/*.button,.button span{*/
+/*    color:#fff*/
+/*}*/
+/*.button i,.button span,.button path,.button svg {*/
+/*    -webkit-transition:all .15s ease-in-out;*/
+/*    transition:all .15s ease-in-out*/
+/*}*/
+/*.button:hover{*/
+/*    background-color:#f24701*/
+/*}*/
+/*.button:active{*/
+/*    background-color:#de4101;*/
+/*    -webkit-transform:translateY(1px);*/
+/*    transform:translateY(1px)*/
+/*}*/
+/*.button--cart{*/
+/*    display:-webkit-box;*/
+/*    display:-ms-flexbox;*/
+/*    display:flex;*/
+/*    -webkit-box-align:center;*/
+/*    -ms-flex-align:center;*/
+/*    align-items:center;*/
+/*    line-height:23px;*/
+/*    padding:12px 25px*/
+/*}*/
+/*.button--cart svg{*/
+/*    margin-right:8px;*/
+/*    margin-bottom:1px*/
+/*}*/
+/*.button--cart span{*/
+/*    font-weight:600;*/
+/*    font-size:16px*/
+/*}*/
+/*.button__delimiter{*/
+/*    width:1px;*/
+/*    height:25px;*/
+/*    background-color:rgba(255,255,255,0.25);*/
+/*    margin-left:14px;*/
+/*    margin-right:14px*/
+/*}*/
