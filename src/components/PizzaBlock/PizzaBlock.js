@@ -11,7 +11,7 @@ const PizzaBlock = ({title, price, imageUrl, sizes, types}) => {
       setPizzaCount(pizzaCount + 1)
     }
     return (
-        <div>
+        <div className="pizza-block-wrapper">
             <div className="pizza-block">
                 <img
                     className="pizza-block__image"
