@@ -1,0 +1,26 @@
+
+.root li{
+    display: inline-block;
+}
+.root :global .selected a{
+    background-color: #f24701;
+    color: white;
+}
+.root li a{
+    text-align: center;
+    width: 45px;
+    line-height: 40px;
+    height: 40px;
+    border: 3px solid #f24701;
+    border-radius: 30px;
+    margin-right: 12px;
+    cursor: pointer;
+    display: inline-block;
+    color: #f24701;
+}
+.root li a:hover{
+    background-color: #f24701;
+    color: white;
+}
+
+
